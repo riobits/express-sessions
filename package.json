@@ -1,0 +1,26 @@
+{
+  "name": "express-sessions2",
+  "version": "1.0.0",
+  "description": "this is just testing for my codes anything here is not helpful for you",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RioBits/express-sessions.git"
+  },
+  "author": "RioBits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RioBits/express-sessions/issues"
+  },
+  "homepage": "https://github.com/RioBits/express-sessions#readme",
+  "dependencies": {
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.10.11"
+  }
+}
